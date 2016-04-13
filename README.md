@@ -104,18 +104,18 @@ ___斜粗体2___
 
 ##<a name="link"/>链接
 ###链接外部URL
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")   语法如下：
+[我的博客](http://yeayee.com "悬停显示")   语法如下：
 ```
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
+[我的博客](http://yeayee.com "悬停显示")
 ```
 ###链接的另一种写法
 [我的博客][id]  
 
-[id]:http://blog.csdn.net/guodongxiaren "悬停显示"   
+[id]:http://yeayee.com "悬停显示"   
 语法如下：
 ```
 [我的博客][id]
-[id]:http://blog.csdn.net/guodongxiaren "悬停显示"
+[id]:http://yeayee.com "悬停显示"
 ```
 中括号[ ]里的id，可以是数字，字母等的组合。这两行可以不连着写，**一般把第二行的链接统一放在文章末尾**，id上下对应就行了。这样正文看起来会比较干净。
 
@@ -141,7 +141,7 @@ ___斜粗体2___
 ###<a name="piclink">给图片加上超链接
 ####第一种
 
-[![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
+[![head]](http://yeayee.com)
 [head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
 
 #### 第二种
